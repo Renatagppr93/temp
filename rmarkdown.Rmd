@@ -105,11 +105,6 @@ Within 3 breakout rooms:
 
 ![](https://media.giphy.com/media/xT9DPIBYf0pAviBLzO/giphy.gif)
 
----
-
-To edit the output of a chunk you can add different arguments to the `{r}` command: 
-
-![Editing output of chunk](image2.png)
 
 ---
 
@@ -145,13 +140,31 @@ Within 3 (different) breakout rooms:
 
 ![](https://cdn.pixabay.com/photo/2018/09/04/10/27/learn-3653430__480.jpg)
 ---
-## Let's do a .pdf file!!!!
+## Let's try a .pdf file!!!!
 
-Walk through the MikTex vs. TinyTex options 
+There are two options to help knit a .pdf: MikTex and TinyTex 
 
-> Maybe do an experiment and have half install TinyTex and half MikTex?
+> We're gonna do an experiment and have half of you install TinyTex and half MikTex!
+
+MikTex:
+1. Change your "html" YAML request to a "pdf"
+2. Take note of the error and follow link and installation instructions
+
+TinyTex
+1. Install package `tinytex`
+
+![](pdf.png)
 
 ---
+## Problem-solving
+
+We're likely going to have individual problems here, so let's screenshare individually and try to help each other on everyone's local machines...
+
+![](https://media.giphy.com/media/7z60uukpYWFLG/giphy.gif)
+
+
+---
+
 ## Exercise (Part III)
 
 In (yet again) 3 different breakout rooms, help each other:
